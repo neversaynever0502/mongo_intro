@@ -7,7 +7,7 @@ import WelcomeGreeting from "@/components/WelcomeGreeting";
 const varieties = [
   {
     no: "01",
-    name: "愛文芒果促銷",
+    name: "愛文芒果",
     en: "Irwin",
     img: "/images/mango-unsplash-2.jpg",
     season: "6–7 月",
