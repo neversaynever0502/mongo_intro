@@ -53,7 +53,7 @@ export default function Home() {
             <WelcomeGreeting />
             <div className="flex items-center gap-4 text-xs font-medium uppercase tracking-[0.3em] text-foreground/50">
               <span className="h-px w-10 bg-foreground/30" />
-              臺灣 · 玉井日光
+              臺灣 · 玉井日光 666
             </div>
             <h1 className="mt-6 font-serif text-4xl font-medium leading-[1.12] tracking-tight text-foreground sm:mt-8 sm:text-6xl lg:text-7xl">
               全日照的陽光，
